@@ -1,6 +1,6 @@
 # Weather MCP Server
 
-A production-ready Model Context Protocol (MCP) server that provides real-time weather information to LLM clients using the Open-Meteo API.
+A production-ready Model Context Protocol (MCP) server that provides real-time weather information to LLM clients using the Open-Meteo API. http://ec2-35-180-66-133.eu-west-3.compute.amazonaws.com:3000/weather-dashboard.html
 
 ## Features
 
