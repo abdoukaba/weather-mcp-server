@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python",
+      "args": [
+        "/path/to/weather_mcp_server/server.py",
+        "--stdio"
+      ],
+      "env": {
+        "MCP_TRANSPORT": "stdio",
+        "PYTHONUNBUFFERED": "1"
+      },
+      "disabled": false,
+      "alwaysAllow": []
+    }
+  }
+}

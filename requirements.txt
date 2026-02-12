@@ -1,0 +1,12 @@
+# Core MCP Framework
+fastmcp>=0.2.0,<3.0.0
+
+# HTTP Client for API requests
+httpx>=0.27.0,<1.0.0
+
+# Additional dependencies that may be pulled in by fastmcp
+pydantic>=2.0.0,<3.0.0
+uvicorn>=0.30.0,<1.0.0
+
+# Optional: Type hints support
+typing-extensions>=4.0.0
